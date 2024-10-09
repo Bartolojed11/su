@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Thin */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-Thin.ttf")
+        format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+/* Thin Italic */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-ThinItalic.ttf")
+        format("truetype");
+    font-weight: 100;
+    font-style: italic;
+}
+
+/* Extra Light */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-ExtraLight.ttf")
+        format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}
+
+/* Light Italic */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-ExtraLightItalic.ttf")
+        format("truetype");
+    font-weight: 2s00;
+    font-style: italic;
+}
+
+/* Light */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-Light.ttf")
+        format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Light Italic */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-LightItalic.ttf")
+        format("truetype");
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* Regular */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-Regular.ttf")
+        format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Italic */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-Italic.ttf")
+        format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Medium */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-Medium.ttf")
+        format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Medium Italic */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-MediumItalic.ttf")
+        format("truetype");
+    font-weight: 500;
+    font-style: italic;
+}
+
+/* Semi Bold */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-SemiBold.ttf")
+        format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* Semi Bold Italic */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-SemiBoldItalic.ttf")
+        format("truetype");
+    font-weight: 600;
+    font-style: italic;
+}
+
+/* Bold */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-Bold.ttf")
+        format("truetype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Bold Italic */
+@font-face {
+    font-family: "Josefin Sans";
+    src: url("/fonts/Josefin_Sans/static/JosefinSans-BoldItalic.ttf")
+        format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@layer base {
+    body {
+        font-family: "Josefin Sans", sans-serif;
+    }
+}
