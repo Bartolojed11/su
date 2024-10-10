@@ -1,0 +1,22 @@
+[
+  {
+    "icon": ["fab", "deezer"],
+    "numbers": 300,
+    "label": "Total Projects"
+  },
+  {
+    "icon": ["far", "face-smile-beam"],
+    "numbers": 300,
+    "label": "Satisified clients"
+  },
+  {
+    "icon": ["fas", "award"],
+    "numbers": 300,
+    "label": "Awards won"
+  },
+  {
+    "icon": ["fas", "champagne-glasses"],
+    "numbers": 300,
+    "label": "Milestones met"
+  }
+]

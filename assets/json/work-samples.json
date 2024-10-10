@@ -1,0 +1,42 @@
+[
+  {
+    "link": "/images/photography/tulips.jpg",
+    "alt": "Tulips",
+    "category": "photography"
+  },
+  {
+    "link": "/images/photography/camera.jpg",
+    "alt": "Camera",
+    "category": "photography"
+  },
+  {
+    "link": "/images/photography/chair.jpg",
+    "alt": "Chair",
+    "category": "photography"
+  },
+  {
+    "link": "/images/web-development/web-01.jpg",
+    "alt": "Light theme website",
+    "category": "web_development"
+  },
+  {
+    "link": "/images/web-development/web-02.jpg",
+    "alt": "Dark theme website",
+    "category": "web_development"
+  },
+  {
+    "link": "/images/ui-ux/ui-ux-1.jpg",
+    "alt": "Wireframing",
+    "category": "ui_ux"
+  },
+  {
+    "link": "/images/ui-ux/ui-ux-2.jpg",
+    "alt": "Responsive layout",
+    "category": "ui_ux"
+  },
+  {
+    "link": "/images/ui-ux/ui-ux-3.jpg",
+    "alt": "High Level Design",
+    "category": "ui_ux"
+  }
+]
