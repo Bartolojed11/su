@@ -33,7 +33,7 @@
     font-family: "Josefin Sans";
     src: url("/fonts/Josefin_Sans/static/JosefinSans-ExtraLightItalic.ttf")
         format("truetype");
-    font-weight: 2s00;
+    font-weight: 200;
     font-style: italic;
 }
 
